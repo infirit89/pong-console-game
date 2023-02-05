@@ -1,0 +1,7 @@
+C:\Users\georg\Documents\Projects\CSGame\CSConsoleGame\bin\Release\CSConsoleGame.exe.config
+C:\Users\georg\Documents\Projects\CSGame\CSConsoleGame\bin\Release\CSConsoleGame.exe
+C:\Users\georg\Documents\Projects\CSGame\CSConsoleGame\bin\Release\CSConsoleGame.pdb
+C:\Users\georg\Documents\Projects\CSGame\CSConsoleGame\obj\Release\CSConsoleGame.csproj.CoreCompileInputs.cache
+C:\Users\georg\Documents\Projects\CSGame\CSConsoleGame\obj\Release\CSConsoleGame.exe
+C:\Users\georg\Documents\Projects\CSGame\CSConsoleGame\obj\Release\CSConsoleGame.pdb
+C:\Users\georg\Documents\Projects\CSGame\CSConsoleGame\obj\Release\CSConsoleGame.csproj.AssemblyReference.cache
